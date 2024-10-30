@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',function(){(new Image()).src='//id5-sync.com/i/'+o.id+'/9.gif';},false);

@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#id5-wp-pixel-manager-id5_account_number-label span{
+	font-weight: bold;
+	margin-right: 20px;
+}
+
+#id5-wp-pixel-manager-id5_account_number {
+	width: 5em;
+}
